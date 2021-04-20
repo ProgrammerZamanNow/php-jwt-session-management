@@ -1,0 +1,13 @@
+{
+    "name": "khannedy/php-jwt",
+    "description": "Belajar Session Management PHP dengan JWT",
+    "authors": [
+        {
+            "name": "Eko Kurniawan Khannedy",
+            "email": "echo.khannedy@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
